@@ -15,7 +15,7 @@ Configuracao, em ordem de prioridade:
     2. arquivo config.ini ao lado deste script (use ./configurar.sh)
 
 Uso:
-    ./run.sh                          # ou run.bat no Windows
+    ./run.sh --loop                       # ou run.bat no Windows
     python3 bot.py --dry-run          # roda, imprime, nao notifica nem salva
 """
 
